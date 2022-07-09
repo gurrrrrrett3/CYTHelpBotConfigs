@@ -1,0 +1,38 @@
+{
+    "Towny": {
+        "Claiming Land": "First thing you need when claiming land is money in your town bank, which can be done by doing /t deposit (#). To claim new land, your new chunk(s) must be connected to your original claim block when you did /t new. Do /t claim in the connecting chunks (/res toggle constantplotborder to see plots). Claiming new chunks costs £650, when you run out of your free 8 claims, you will need to buy more with /t buy bonus (#). Buying bonus chunks costs £850 per bonus chunk.",
+        "Creating a town": "To create a new town, first you need money. It costs £7,500 to start a new town, and £1,150 per day for upkeep. Once you have that, find the spot that you want to claim. When you've found that spot, type in /t new (name) to create your town.",
+        "Permissions": {
+            "Towny Permissions": "Towny has four different types of actions, Build, Destroy, ItemUse, and Switch. Build and Destroy cover players being able to place and remove blocks at their will. ItemUse covers the operation of items that can interact with the surrounding area. Examples are, but not limited to, Ender Pearls, Bonemeal, and Fire Charges. Switch covers blocks that can be opened or interacted with such as, but not limited to, chests, furnaces, doors, and levers.",
+            "Mayor Permissions": "Mayors are the owners of the Town, they have all permissions in every plot and every plot type.",
+            "Co-Mayor Permissions": "Co-Mayors have the same permissions as Mayors, however they cannot delete the town, or set a new Mayor.",
+            "Assistant Permissions": "Assistants can claim new chunks, set plot types, and change plot settings such as toggling mobs to spawn, togglings explosions, etc.",
+            "Builder Permissions": "Builders have the permission to Build, Destroy, ItemUse and Switch in all plots except for residential plots",
+            "VIP Permissions": "VIPs have the same permissions as Residents, however they do not pay Town tax or plot tax.",
+            "Resident Permissions": "Residents are the base rank of the Town, they do not have many permissions, however they can deposit money, spawn at the town, and spawn at outposts."
+        },
+        "Plot Types": {
+            "Plot Groups": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt felis dignissim imperdiet efficitur. Cras ultrices magna non turpis efficitur, id bibendum tortor interdum. Duis ut metus suscipit, consectetur lectus eget, varius mi. Praesent ac libero vitae lectus tempus efficitur. Curabitur ac accumsan eros. Nulla egestas efficitur orci, ac ultricies tellus semper eget. Quisque pretium ut ante eget elementum.",
+            "Town Plots": {
+            "Default Plots": "Default plots are the basic plots when claiming, they need no commands to be designated.",
+            "Embassy Plots": "Embassy plots can be claimed by players who have not joined the Town the plot is located in. To set a plot as embassy, do /plot set embassy, this costs £500 to do.",
+            "Farm Plots": "Farm plots make it so players can only Break crops and blocks seen in /towny allowedblocks - Farm",
+            "Arena Plots": "Arena plots toggle PvP "
+            },
+            "Plot Settings": {
+
+            }
+        }
+    },
+    "Slimefun": {
+        "Getting Started": {
+            "Basic Machines": {
+                "Enhanced Workbench": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt felis dignissim imperdiet efficitur. Cras ultrices magna non turpis efficitur, id bibendum tortor interdum. Duis ut metus suscipit, consectetur lectus eget, varius mi. Praesent ac libero vitae lectus tempus efficitur. Curabitur ac accumsan eros. Nulla egestas efficitur orci, ac ultricies tellus semper eget. Quisque pretium ut ante eget elementum.",
+                "Ore Crusher": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt felis dignissim imperdiet efficitur. Cras ultrices magna non turpis efficitur, id bibendum tortor interdum. Duis ut metus suscipit, consectetur lectus eget, varius mi. Praesent ac libero vitae lectus tempus efficitur. Curabitur ac accumsan eros. Nulla egestas efficitur orci, ac ultricies tellus semper eget. Quisque pretium ut ante eget elementum."
+            },
+            "Generating Power": {
+                "Power Manager": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt felis dignissim imperdiet efficitur. Cras ultrices magna non turpis efficitur, id bibendum tortor interdum. Duis ut metus suscipit, consectetur lectus eget, varius mi. Praesent ac libero vitae lectus tempus efficitur. Curabitur ac accumsan eros. Nulla egestas efficitur orci, ac ultricies tellus semper eget. Quisque pretium ut ante eget elementum. "
+            }
+        }
+    }
+}
