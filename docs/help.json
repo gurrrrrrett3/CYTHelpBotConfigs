@@ -11,17 +11,21 @@
             "VIP Permissions": "VIPs have the same permissions as Residents, however they do not pay Town tax or plot tax.",
             "Resident Permissions": "Residents are the base rank of the Town, they do not have many permissions, however they can deposit money, spawn at the town, and spawn at outposts."
         },
+        "Adding Residents to Your Town": {
+            "Inviting Players": "To invite a player to your town, do /t invite (name). If you are accepting an invite, do /accept (town name) to accept the town invite.",
+            "Setting Tax": "To set a universal Town tax, do /t set taxes (#). You can also set a percent tax with /t toggle taxpercent. Plot taxes are also a viable option, which you can set with /t set plottax (#)."
+        },
         "Plot Types": {
+            "Outposts": "Outposts are plots that are not connected to your original claim(s). To set a plot as an Outpost, do /t claim outpost, this costs £20,000 to do.",
             "Plot Groups": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt felis dignissim imperdiet efficitur. Cras ultrices magna non turpis efficitur, id bibendum tortor interdum. Duis ut metus suscipit, consectetur lectus eget, varius mi. Praesent ac libero vitae lectus tempus efficitur. Curabitur ac accumsan eros. Nulla egestas efficitur orci, ac ultricies tellus semper eget. Quisque pretium ut ante eget elementum.",
+            "Plot Settings": "There are four plot settings, Fire, Explosion, PvP and Mob. You can toggle them using /t toggle (x) or /plot toggle (x). ",
             "Town Plots": {
-            "Default Plots": "Default plots are the basic plots when claiming, they need no commands to be designated.",
-            "Embassy Plots": "Embassy plots can be claimed by players who have not joined the Town the plot is located in. To set a plot as embassy, do /plot set embassy, this costs £500 to do.",
-            "Farm Plots": "Farm plots make it so players can only Break crops and blocks seen in /towny allowedblocks - Farm",
-            "Arena Plots": "Arena plots toggle PvP "
-            },
-            "Plot Settings": {
-
+            "Default Plots": "Default plots are the basic plots when claiming, they need no commands to be designated. However, if you need to reset a plot to Default, do /plot set reset.",
+            "Embassy Plots": "Embassy plots can be claimed by players who have not joined the Town the plot is located in. To set a plot as an Embassy, do /plot set embassy, this costs £500 to do.",
+            "Farm Plots": "Farm plots make it so players can only Break crops and blocks seen in /towny allowedblocks - Farm. To set a plot as a Farm plot, do /plot set farm, this costs £500 to do.",
+            "Arena Plots": "Arena plots toggle PvP. To set a plot as an Arena, do /plot set arena, this costs £500 to do."
             }
+            
         }
     },
     "Slimefun": {
