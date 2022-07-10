@@ -13,7 +13,7 @@
         },
         "Adding Residents to Your Town": {
             "Inviting Players": "To invite a player to your town, do /t invite (name). If you are accepting an invite, do /accept (town name) to accept the town invite.",
-            "Setting Tax": "To set a universal Town tax, do /t set taxes (#). You can also set a percent tax with /t toggle taxpercent. Plot taxes are also a viable option, which you can set with /t set plottax (#)."
+            "Setting Tax": "To set a universal Town tax, do /t set taxes (#). You can also set a percent tax with /t toggle taxpercent. Plot taxes are also an available option, which you can set with /t set plottax (#)."
         },
         "Plot Types": {
             "Outposts": "Outposts are plots that are not connected to your original claim(s). To set a plot as an Outpost, do /t claim outpost, this costs £20,000 to do.",
